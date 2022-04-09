@@ -1,11 +1,12 @@
 # lovely_purple_calculator
 
+/*****************************
 author :mohamed laadjel
 facebook="https://www.facebook.com/ItzMouhLaad"
 twitter="@mouh_laad"
 github="https://github.com/mohamed-ladjal"
 email:mohamed.laadjel2019@gmail.com
-	
+*******************************/
 
 Lovely purple calculator
 anyone can contribute to the project it is free and openSource project 
